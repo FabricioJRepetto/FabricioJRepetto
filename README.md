@@ -11,7 +11,8 @@
 <p width=75%>Hi! I am Fabricio Repetto, a self-taught who found a new passion in programming, I am forming as a Front end developer (with knowledge on back end too) focused on JavaScript technologies since 2021.
 Currently looking for my first work experience in the IT world.</p>
 
-<h3> // Lenguages and Tools: </h3>
+<br/>
+<h2> Technologies and Tools: </h2>
 
 <p align="left">
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/></a> JavaScript</code>
@@ -29,9 +30,10 @@ Currently looking for my first work experience in the IT world.</p>
   <code><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="30"/></a> Photoshop</code>
 </p>
 
-<h3> // My projects: </h3>
+<br/>
+<h2> My projects: </h2>
 
-<h1>Portfolio</h1>
+<h3>Portfolio</h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/portfolio)
 [![Deploy Badge](https://img.shields.io/badge/-Deploy-ffa500?style=flat-square)](https://fabricio-repetto.vercel.app)
@@ -42,7 +44,7 @@ Currently looking for my first work experience in the IT world.</p>
 <a href="https://fabricio-repetto.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665515937/portfolio-preview/portfolio_vi0cd7.png" width="500" /></a>
 
 
-<h1>Provider Store - e-Commerce </h1>
+<h3>Provider Store - e-Commerce </h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/Ecommerce)
 [![Back Badge](https://img.shields.io/badge/-Back--end%20Repository-ffa500?style=flat-square)](https://github.com/fereramirez/provider-backend)
@@ -54,7 +56,7 @@ Currently looking for my first work experience in the IT world.</p>
 <a href="https://providerstore.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665168914/portfolio-preview/provider_premium_q1pt1p.png" width="500" /></a>
 
 
-<h1>Dog House - SPA </h1>
+<h3>Dog House - SPA </h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/ProyectoDogs)
 [![Deploy Badge](https://img.shields.io/badge/-Deploy-ffa500?style=flat-square)](https://the-dog-house.vercel.app)
