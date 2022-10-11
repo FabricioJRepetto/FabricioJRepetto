@@ -40,7 +40,7 @@ Currently looking for my first work experience in the IT world.</p>
 
 <p align="left">
     <p><b>SPA.</b> React + React Context.</p>
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
 <a href="https://fabricio-repetto.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665515937/portfolio-preview/portfolio_vi0cd7.png" width="500" /></a>
 
 
@@ -52,7 +52,7 @@ Currently looking for my first work experience in the IT world.</p>
 
 <p align="left">
     <p><b>e-Commerce.</b> team project applying MERN method.</p>
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
 <a href="https://providerstore.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665168914/portfolio-preview/provider_premium_q1pt1p.png" width="500" /></a>
 
 
@@ -63,6 +63,6 @@ Currently looking for my first work experience in the IT world.</p>
 
 <p align="left">
     <p><b>SPA.</b> Database and multiple API comsumption. CRUD.</p>
-<a href="#" ><img align="center" src="https://res.cloudinary.com/dcen68vrk/image/upload/v1616992169/GitHub%20Profile/line_geelnc.svg" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
 <a href="https://the-dog-house.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665171351/portfolio-preview/Screenshot_2022-10-07_163520_ohj04q.png" width="500" /></a>
 
