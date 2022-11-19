@@ -33,6 +33,16 @@ Currently looking for my first work experience in the IT world.</p>
 <br/>
 <h2> My projects: </h2>
 
+<h3>TicTacToe online</h3>
+
+[![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/chat-io)
+[![Deploy Badge](https://img.shields.io/badge/-Deploy-ffa500?style=flat-square)](https://tictactoeio.vercel.app)
+
+<p align="left">
+    <p><b>SPA with full-duplex connection.</b> React + Socket.Io </p>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
+<a href="https://fabricio-repetto.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1668896984/portfolio-preview/ttt_screenshot_nnbxf1.png" width="500" /></a>
+
 <h3>Portfolio</h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/portfolio)
@@ -42,7 +52,6 @@ Currently looking for my first work experience in the IT world.</p>
     <p><b>SPA.</b> React + React Context.</p>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
 <a href="https://fabricio-repetto.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665515937/portfolio-preview/portfolio_vi0cd7.png" width="500" /></a>
-
 
 <h3>Provider Store - e-Commerce </h3>
 
