@@ -6,7 +6,8 @@
 [![Email Badge](https://img.shields.io/badge/fabricio.j.repetto-@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=fabricio.j.repetto@gmail.com&tf=cm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/fabricio-repetto/)
 
-[![CV Badge](https://img.shields.io/badge/Curriculum-Esp-353535?style=flat-square)](https://res.cloudinary.com/dsyjj0sch/image/upload/v1665500157/portfolio-preview/cv_fabricio_repetto_v2_Mesa_de_trabajo_1_bokrud.png)
+[![CV Badge](https://img.shields.io/badge/Curriculum-Esp-353535?style=flat-square)](https://drive.google.com/file/d/1GMGpYKMRNpf4J3Rc9I2mwiH4ziS5V_6s/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/Curriculum-Eng-353535?style=flat-square)](https://drive.google.com/file/d/1HgVnEFz6qLbZ_Zyp288uFw5nA3--bIX8/view?usp=sharing)
 
 <p width=75%>Hi! I am Fabricio Repetto, a self-taught who found a new passion in programming, I am forming as a Front end developer (with knowledge on back end too) focused on JavaScript technologies since 2021.
 Currently looking for my first work experience in the IT world.</p>
