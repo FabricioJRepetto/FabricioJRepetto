@@ -44,7 +44,6 @@ Currently looking for my first work experience in the IT world.</p>
     <p>This project was designed to fulfil the client requirements. It organizes bookings, clientns and payments to provide a better facility management.</p>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1678574073/portfolio-preview/clarita_admin_pgwxle.png" width="500" /></a>
-//
 
 <h3>Diet Mate</h3>
 
