@@ -34,6 +34,18 @@ Currently looking for my first work experience in the IT world.</p>
 <br/>
 <h2> My projects: </h2>
 
+<h3>Hotel Management System</h3>
+
+[![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/clarita-frontend)
+[![Back Badge](https://img.shields.io/badge/-Back--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/clarita-backend)
+
+<p align="left">
+    <p><b>Project for cliente "Cabañas Clarita".</b> RESTful API, database, user authentication. React + Node.js + MongoDB </p>
+    <p>This project was designed to fulfil the client requirements. It organizes bookings, clientns and payments to provide a better facility management.</p>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1665517187/portfolio-preview/line_geelnc_xdfmpc.svg" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1678574073/portfolio-preview/clarita_admin_pgwxle.png" width="500" /></a>
+//
+
 <h3>Diet Mate</h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-ffa500?style=flat-square)](https://github.com/FabricioJRepetto/weekly-diet)
