@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" ><img src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1679262726/portfolio-preview/GitHub-banner_ssj9jy.jpg"/></a>
+  <a href="#" ><img src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1680812519/portfolio-preview/GitHub-banner_hap6ed.jpg"/></a>
 </p>
 
 [![Portfolio Badge](https://img.shields.io/badge/Fabricio%20Repetto-Portfolio-047857?style=flat-square&logo=vercel)](https://fabricio-repetto.vercel.app)
