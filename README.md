@@ -34,13 +34,23 @@ Currently looking for my first work experience in the IT world.</p>
 <br/>
 <h2> My projects: </h2>
 
+<h3>Image Mutator</h3>
+
+[![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-047857?style=flat-square)](https://github.com/FabricioJRepetto/Image-Mutator)
+
+<p align="left">
+    <p><b>Image stylizer based on canvas.</b> SPA. TypeScript & React</p>
+    <p>The main function is to style images, either standard or Gif, by taking the information from the file and using it to replace it with characters or circles.</p>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1679518660/portfolio-preview/line_s8stss.svg" width="30" /></a>
+<a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1682007047/portfolio-preview/imagemutator-thumbnail_okow5y.jpg" width="500" /></a>
+
 <h3>Hotel Management System</h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-047857?style=flat-square)](https://github.com/FabricioJRepetto/clarita-frontend)
 [![Back Badge](https://img.shields.io/badge/-Back--end%20Repository-047857?style=flat-square)](https://github.com/FabricioJRepetto/clarita-backend)
 
 <p align="left">
-    <p><b>Project for cliente "Cabañas Clarita".</b> RESTful API, database, user authentication. React + Node.js + MongoDB </p>
+    <p><b>Project for client "Cabañas Clarita".</b> RESTful API, database, user authentication. React + Node.js + MongoDB </p>
     <p>This project was designed to fulfil the client requirements. It organizes bookings, clientns and payments to provide a better facility management.</p>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1679518660/portfolio-preview/line_s8stss.svg" width="30" /></a>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1678574073/portfolio-preview/clarita_admin_pgwxle.png" width="500" /></a>
@@ -66,7 +76,7 @@ Currently looking for my first work experience in the IT world.</p>
 <a href="#" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1679518660/portfolio-preview/line_s8stss.svg" width="30" /></a>
 <a href="https://tictactoeio.vercel.app" ><img align="center" src="https://res.cloudinary.com/dsyjj0sch/image/upload/v1668896984/portfolio-preview/ttt_screenshot_nnbxf1.png" width="500" /></a>
 
-<h3>Portfolio</h3>
+<h3>Portfolio (v1)</h3>
 
 [![Front Badge](https://img.shields.io/badge/-Front--end%20Repository-047857?style=flat-square)](https://github.com/FabricioJRepetto/portfolio)
 [![Deploy Badge](https://img.shields.io/badge/-Deploy-047857?style=flat-square)](https://fabricio-repetto.vercel.app)
